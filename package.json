@@ -1,7 +1,7 @@
 {
-  "name": "@lamnhan/unistylus-icons",
+  "name": "@unistylus/bootstrap-icons",
   "version": "0.0.1",
-  "description": "Icon packs for Unistylus.",
+  "description": "The Unistylus Bootstrap icons pack.",
   "author": "Lam Nhan",
   "homepage": "https://unistylus.lamnhan.com",
   "license": "MIT",
@@ -18,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lamnhan/unistylus-icons.git"
+    "url": "https://github.com/unistylus/bootstrap-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/lamnhan/unistylus-icons/issues"
+    "url": "https://github.com/unistylus/bootstrap-icons/issues"
   },
   "dependencies": {}
 }
