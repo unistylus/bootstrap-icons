@@ -1,0 +1,27 @@
+{
+  "name": "@lamnhan/unistylus-icons",
+  "version": "0.0.1",
+  "description": "Icon packs for Unistylus.",
+  "author": "Lam Nhan",
+  "homepage": "https://unistylus.lamnhan.com",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "keywords": [
+    "unistylus",
+    "bootstrap",
+    "css",
+    "scss",
+    "theming",
+    "angular"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lamnhan/unistylus-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lamnhan/unistylus-icons/issues"
+  },
+  "dependencies": {}
+}
