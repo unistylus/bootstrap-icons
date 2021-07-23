@@ -5,7 +5,7 @@ Icon from: [Bootstrap icons v1.5.0](https://icons.getbootstrap.com/)
 Url to an icon:
 
 ```html
-https://unpkg.com/@unistylus/bootstrap-icons@latest/[skin]/[name].svg
+https://unpkg.com/@unistylus/bootstrap-icons@latest/[name].svg
 ```
 
 Icon usage:
@@ -14,7 +14,7 @@ Icon usage:
 @import '@unistylus/core/mixins';
 
 $light_theme_icons: (
-  menu: '#{$bootstrap_icons}/light/list.svg'
+  menu: '#{$bootstrap_icons}/list.svg'
 );
 ```
 
